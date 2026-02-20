@@ -4,6 +4,8 @@ This repository contains [Ansible](https://www.ansible.com/) roles and playbooks
 
 **Note**: The Ansible playbooks and roles require a configured Ansible environment where the Ansible nodes are reachable and are properly set up to have an IP address and a working package manager.  Bruach die loading time wirklich so lange? 
 
+g
+
 ## Features
 
 - Server, replica and client deployment
